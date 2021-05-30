@@ -1,0 +1,1 @@
+package hust.soict.hedspi.aims.gui;import hust.soict.hedspi.aims.order.Order;public class AimsGUI {    private static Order anOrder;    public static void main(String[] args) {        HomeFrame frame = new HomeFrame();    }}
